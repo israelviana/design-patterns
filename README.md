@@ -1,2 +1,2 @@
 # design-patterns
-Project developed for a show a design pattern examples in GoLang
+Project developed for show a design pattern examples in GoLang
